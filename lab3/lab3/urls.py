@@ -21,3 +21,5 @@ urlpatterns = [
     url(r'^search/book_detail/$', book_detail),
     url(r'^search/delete_book/$',delete_book),
 ]
+
+#change1
